@@ -1,0 +1,17 @@
+name: DayNight
+author: M
+version: 1.0
+main: org.cadenhead.minecraft.DayNightCommand
+description: Faster way to turn the world to day or night
+
+commands:
+  day:
+    description: Day Time
+  night:
+    description: Night Time
+  sky:
+    description: Makes the weather clear
+  rain:
+    description: It becomes a rainy day
+  storm:
+    description: Thunder and lightning
