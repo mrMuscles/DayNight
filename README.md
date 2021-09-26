@@ -1,7 +1,7 @@
 # DayNight
 Source code for DayNight Bukkit plugin
 
-If you would like the plugin wihtout compiling:  
+If you would like the plugin without compiling:  
 
 CurseForge: https://www.curseforge.com/minecraft/bukkit-plugins/daynight
 
